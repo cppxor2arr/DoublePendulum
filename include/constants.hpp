@@ -1,0 +1,6 @@
+#ifndef CONSTANTS_HPP
+#define CONSTANTS_HPP
+
+double constexpr PI = 3.1415926535897932384626;
+
+#endif // CONSTANTS_HPP
